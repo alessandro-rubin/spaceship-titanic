@@ -1,6 +1,6 @@
 # spaceship-titanic
 
-## my work for the kaggle "spaceship titanic" competition
+## my work for the [spaceship titanic](https://www.kaggle.com/competitions/spaceship-titanic) Kaggle competition
 
 https://www.kaggle.com/competitions/spaceship-titanic
 
